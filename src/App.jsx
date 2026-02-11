@@ -209,7 +209,7 @@ export default function TerreiroSite() {
             <h3 className="text-2xl font-bold text-stone-800">Mametu Vanju</h3>
             <p className="text-amber-600 font-medium mb-4">Mãe Inês</p>
             <p className="text-stone-600 max-w-2xl mx-auto leading-relaxed">
-              Iniciada por Pai Carlos de Ogum há 16 anos, como filha de Matamba. Trabalha com consultas espirituais e jogos de búzios, guiando os filhos da casa com sabedoria e fundamento.
+              Iniciada por Pai Carlos de Ogum no ano de 2011, como filha de Matamba. Trabalha com consultas espirituais e jogos de búzios, guiando os filhos da casa com sabedoria e fundamento.
             </p>
           </div>
           <div className="w-16 h-1 bg-amber-600 mx-auto mb-8 opacity-50"></div>
