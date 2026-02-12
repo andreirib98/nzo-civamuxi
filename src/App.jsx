@@ -28,10 +28,9 @@ export default function TerreiroSite() {
   // Dados Exatos do Calendário 2026 (Baseado no Flyer enviado)
   const nextEvents = [
     { date: '21 FEV', title: 'Gira', type: 'Gira', time: '19:00', highlight: false },
-    { date: '07 MAR', title: 'Festa de Caboclo', type: 'Festa', time: '18:00', highlight: true },
+    { date: '07 MAR', title: 'Festa de Caboclo', type: 'Festa', time: '19:00', highlight: true },
     { date: '21 MAR', title: 'Gira', type: 'Gira', time: '19:00', highlight: false },
     { date: '04 ABR', title: 'Alvorada', type: 'Cerimônia', time: '05:00', highlight: true },
-    { date: '25 ABR', title: 'Festa de Ogum', type: 'Festa', time: '18:00', highlight: true },
     { date: '16 MAI', title: 'Gira', type: 'Gira', time: '19:00', highlight: false },
   ];
 
@@ -150,7 +149,7 @@ export default function TerreiroSite() {
                   A Umbanda
                 </h3>
                 <p className="text-stone-600 leading-relaxed">
-                  Mametu Vanju trabalha com as entidades há mais de 30 anos. Sua trajetória espiritual passou pela Mesa Branca, Kardecismo e Espiritismo, até encontrar na Umbanda, sob a proteção do Caboclo Águia Branca, o caminho para exercer sua mediunidade e caridade.
+                  Mametu Vanju trabalha com as entidades há mais de 30 anos. Sua trajetória espiritual passou pela Mesa Branca, Kardecismo e Espiritismo, até encontrar na Umbanda, sob a proteção do Caboclo Águia Branca e sua guardiã Maria Padilha das Almas, o caminho para exercer sua mediunidade e caridade.
                 </p>
               </div>
 
@@ -209,7 +208,7 @@ export default function TerreiroSite() {
             <h3 className="text-2xl font-bold text-stone-800">Mametu Vanju</h3>
             <p className="text-amber-600 font-medium mb-4">Mãe Inês</p>
             <p className="text-stone-600 max-w-2xl mx-auto leading-relaxed">
-              Iniciada por Pai Carlos de Ogum no ano de 2011, como filha de Matamba. Trabalha com consultas espirituais e jogos de búzios, guiando os filhos da casa com sabedoria e fundamento.
+              Iniciada por Tateto Nkosi Kivonda no ano de 2011, como filha de Matamba. Trabalha com consultas espirituais e jogos de búzios, guiando os filhos da casa com sabedoria e fundamento.
             </p>
           </div>
           <div className="w-16 h-1 bg-amber-600 mx-auto mb-8 opacity-50"></div>
